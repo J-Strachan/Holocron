@@ -12,6 +12,7 @@ Goals for this week:
 
 ![SLweek10ex1](/WebDev/_shared/Projects/ANH/images/SLweek10ex1.png)
 
+![slweek10ex2.1](WebDev/_shared/Projects/ANH/images/slweek10ex2.1.png)
 ## app.py
 
 ![SLweek10ex2](/WebDev/_shared/Projects/ANH/images/SLweek10ex2.png)
