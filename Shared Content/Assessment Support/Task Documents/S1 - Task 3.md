@@ -1,6 +1,6 @@
 ---
 isCurrent: true
-needsUpdating: false
+needsUpdating: true
 ---
 # How you write a Technical Tutorial
 [[Student Guide - How to Write a Technical Tutorial]]

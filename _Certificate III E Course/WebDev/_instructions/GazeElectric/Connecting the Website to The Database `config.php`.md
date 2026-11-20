@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 1
 ---
 This guide will introduce you to the core PHP code for the website, connecting the website to the database. This file is a single point of access, ensuring if any changes to the database occur then there is minimal disruption to the website.

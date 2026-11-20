@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 5
 ---
 This guide will demonstrate how to update the navigation bar (navbar) to only show the links and content as determined by the authenticated state of the user.

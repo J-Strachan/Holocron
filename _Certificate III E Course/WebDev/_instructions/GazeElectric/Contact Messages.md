@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 9
 ---
 When users experience issues on your web application, they need a clean, reliable way to send inquiries to your support team. This page serves as a dual-purpose support portal: it acts as a clean, public inquiry form for guests and pre-populated form for logged-in users, while dynamically rendering an inbox dashboard exclusively for authorized administrators to review and manage incoming communications.

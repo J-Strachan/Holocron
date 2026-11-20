@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 4
 ---
 Have you ever broken your local database so badly during testing that you had to delete it entirely? Or have you ever needed a quick, automated way to purge your development data and rebuild your entire database structure and mock assets from scratch in seconds?

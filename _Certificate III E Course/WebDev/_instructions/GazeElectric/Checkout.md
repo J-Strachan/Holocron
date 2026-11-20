@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 11
 ---
 Guarding your website's transaction boundaries is a critical requirement in web systems. This tutorial teaches you how to construct a secure checkout workspace that validates billing and payment parameters, pre-populates authenticated customer profile records, and ensures that sensitive relational writes are processed cleanly without risking database corruption.

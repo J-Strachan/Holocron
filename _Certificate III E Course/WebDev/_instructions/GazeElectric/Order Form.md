@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 10
 ---
 To transition your storefront from a static display to an interactive application, you must build state-aware features that recognise customer choices over time. This guide walks you through building a dynamic catalogue interface that tracks items inside a temporary, session-based shopping basket while utilising pagination to load products gracefully without degrading server performance.

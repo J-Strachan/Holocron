@@ -1,5 +1,5 @@
 ---
-isCurrent: true
+isCurrent: false
 needsUpdating: false
 ---
 # Project SCARIF (Secure Containerised Archive for Remote Interface Feedback)

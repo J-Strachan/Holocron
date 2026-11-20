@@ -2,7 +2,7 @@
 theme: simple
 highlightTheme: zenburn
 css: css/holocronSlides.css
-isCurrent: true
+isCurrent: false
 needsUpdating: false
 ---
 # ICT Systems: Core Fundamentals

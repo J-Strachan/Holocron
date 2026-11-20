@@ -91,9 +91,14 @@ views:
     order:
       - file.name
       - file.folder
+      - isCurrent
+      - needsUpdating
     sort:
       - property: file.folder
         direction: ASC
+    columnSize:
+      file.name: 368
+      file.folder: 391
   - type: table
     name: Software Versions
     filters:

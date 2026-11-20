@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 6
 ---
 Now that you have established standard user registration, you will build a central administrative dashboard to manage user accounts. This guide walks you through setting up role-based security gates, editing active profiles, and enforcing defensive deletion controls. You will ensure only authorised administrators can access these controls.
