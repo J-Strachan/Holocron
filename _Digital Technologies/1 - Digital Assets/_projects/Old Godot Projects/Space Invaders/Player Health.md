@@ -3,7 +3,7 @@ isCurrent: false
 softwareVersion: Godot 4.3
 needsUpdating: false
 ---
-> [!important] Prerequisite: [[_Digital Technologies/1 - Digital Assets/_projects/Space Invaders/Enemy Shooting]]
+> [!important] Prerequisite: [[_Digital Technologies/1 - Digital Assets/_projects/Old Godot Projects/Space Invaders/Enemy Shooting]]
 
 During the game, the players health should be impacted by various game mechanics. These could include:
 
