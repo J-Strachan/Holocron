@@ -6742,7 +6742,11 @@ var AddConfirmModal = class extends import_obsidian.Modal {
     this.submission = submission;
   }
   onSubmit() {
-    this.submission().catch((err) => console.error(err));
+    try {
+      this.submission();
+    } catch (err) {
+      console.error(err);
+    }
     this.close();
   }
   onCancel() {
@@ -6779,9 +6783,9 @@ var PropModal = class extends import_obsidian2.Modal {
     this.submission(this.props).catch((err) => console.error(err));
     this.close();
   }
-  updateSetting(value) {
+  async updateSetting(value) {
     this.alterProp = value;
-    this.changeSetting(value);
+    await this.changeSetting(value);
   }
   //Pull up confirmation form when user submits base form.
   onSubmit(props) {
