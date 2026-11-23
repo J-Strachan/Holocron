@@ -76,7 +76,7 @@ By default the Timer is set to 1 second before the firing is triggered, however 
 
 Add code to generate a random number, set between 2 and 30 seconds. Then start the timer.
 
-![[_Digital Technologies/1 - Digital Assets/_projects/Space Invaders/_images/enemyShootingRandomTimer.png]]
+![[_Digital Technologies/1 - Digital Assets/_projects/Old Godot Projects/Space Invaders/_images/enemyShootingRandomTimer.png]]
 
 ```gdscript
 var rng = RandomNumberGenerator.new()
