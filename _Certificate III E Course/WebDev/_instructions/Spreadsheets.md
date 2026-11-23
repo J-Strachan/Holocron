@@ -1,5 +1,5 @@
 ---
-isCurrent: true
+isCurrent: false
 needsUpdating: false
 ---
 A timesheet is an excellent tool for tracking your study or work hours. Here is a comprehensive tutorial on how to design one, including formulas for calculating time and totals.

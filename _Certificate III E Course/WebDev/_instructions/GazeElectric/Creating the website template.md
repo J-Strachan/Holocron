@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 2
 ---
 The template is the common code that will be used by almost all pages on the site. `template.php` will contain the single connection to `config.php` and define the standard user interface for the site. This includes the navigation, flash messages positioning and formatting, and any common php code.

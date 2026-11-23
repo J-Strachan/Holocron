@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 7
 ---
 Now that your user accounts are secure, you will build a dynamic dashboard to manage your product catalogue. This guide walks you through setting up secure file uploads, configuring precise pricing decimals, and toggling product visibility. Utilising Role Based Access Control previously implemented, you will ensure only authorised administrators can access these inventory controls.

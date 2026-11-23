@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 13
 ---
 404A professional web application must handle broken links or missing files without exposing underlying system details or confusing the user. This guide covers how to set up an explicit server-level error responder page and configure the web server's routing rules to redirect broken requests smoothly while preserving search engine optimisation standards.

@@ -1,3 +1,6 @@
+---
+isCurrent: false
+---
 ## The Mental Model: The Central Whiteboard
 
 Think of a Godot project like a high school classroom:

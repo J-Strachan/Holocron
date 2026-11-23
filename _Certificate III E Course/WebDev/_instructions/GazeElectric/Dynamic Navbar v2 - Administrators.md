@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 8
 ---
 A great user interface should adapt to whoever is using it. In this tutorial, you will enhance your website's main navigation menu to dynamically display administrative tools only when a user with administrator privileges logs in. This ensures your store remains neat and intuitive for regular customers while keeping sensitive management links hidden from public view.

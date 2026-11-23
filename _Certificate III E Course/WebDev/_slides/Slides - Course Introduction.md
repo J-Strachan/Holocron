@@ -2,8 +2,8 @@
 theme: simple
 highlightTheme: zenburn
 css: css/holocronSlides.css
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 ---
 
 # Certificate III in Information Technology

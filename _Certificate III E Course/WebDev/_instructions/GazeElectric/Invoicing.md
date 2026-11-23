@@ -1,6 +1,6 @@
 ---
-isCurrent: true
-needsUpdating: false
+isCurrent: false
+needsUpdating: true
 tutorialIndex: 12
 ---
 After an order is completed, the system must generate a professional, immutable receipt of the transaction. This guide covers how to build a dynamic invoice utility that pulls relational purchase details, protects personal account details through defensive design layout boundaries, and provides administrators with a secure interface to track payment states..

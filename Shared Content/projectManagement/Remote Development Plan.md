@@ -1,5 +1,5 @@
 ---
-isCurrent: true
+isCurrent: false
 needsUpdating: false
 ---
 In an existing, or new Google Doc, document your plan for how the project will continue if there is a period of remote work.
