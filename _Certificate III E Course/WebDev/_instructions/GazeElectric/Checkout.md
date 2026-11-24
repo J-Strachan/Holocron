@@ -88,7 +88,7 @@ $grand_total = 0;
 
 foreach ($_SESSION['shopping_cart'] as $id => $qty) {
 	// Defensive design check: query name and price structures from the database
-	$stmt = $db->prepare("SELECT product_id, name AS product_name, price FROM products WHERE product_id = ?");
+	$stmt = $db->prepare("SELECT product_id, product_name AS product_name, price FROM products WHERE product_id = ?");
 	$stmt->execute([$id]);
 	$item = $stmt->fetch();
 
@@ -151,7 +151,7 @@ if (empty($errors)) {
 		$db->beginTransaction();
 
 		// 1. Write the master parent record to the orders table
-		$stmt = $db->prepare("INSERT INTO orders (user_id, customer_name, delivery_address, total_price) VALUES (?, ?, ?, ?)");
+		$stmt = $db->prepare("INSERT INTO orders (user_id, full_name, address, total_amount) VALUES (?, ?, ?, ?)");
 		$current_user = $_SESSION['user_id'] ?? null;
 		$stmt->execute([$current_user, $customer_name, $delivery_address, $grand_total]);
 
