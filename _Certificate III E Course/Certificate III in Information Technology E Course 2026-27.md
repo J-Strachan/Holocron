@@ -1,10 +1,10 @@
 ---
-isCurrent: false
+isCurrent: true
 needsUpdating: false
 ---
 Want to Study and earn competencies towards the Certificate III in Information Technology? [[Why Study the Certificate III in Information Technology Course|See this page]].
 
-
+7
 See [[Course|Course]] for details on the course
 
 > [!important]- Meeting Schedule
@@ -37,7 +37,7 @@ See [[Course|Course]] for details on the course
 ![[Website Development Semester 2#Task 2.1 Competencies]]
 ![[Website Development Semester 2#Task 2.2 Competencies]]
 ![[Website Development Semester 2#Task 2.3 Competencies]]
-
+7
 
 
 > [!important]- ICT20120 Certificate II in Applied Digital Technologies EXIT POINT

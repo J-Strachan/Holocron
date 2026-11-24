@@ -5,13 +5,13 @@ needsUpdating: false
 
 Welcome to the Holocron - the central repository for IT subjects at LTC. 
 
-| Semester | Networking and Security                      | Digital Technologies     | Robotics & Mechatronics               | [[Certificate III in Information Technology E Course]]                    |
-| -------- | -------------------------------------------- | ------------------------ | ------------------------------------- | ------------------------------------------------------------------------- |
-| 1        | [[Networking and Cyber Systems]]             | [[Digital Assets]]       | [[Building and Programming Circuits]] | [[Website Development Semester 1\|Semester 1]]                            |
-| 2        | [[Network Administration and Security]]      | [[Digital Applications]] | [[Robotic & Mechatronic Systems]]     | [[Website Development Semester 2\|Semester 2]]<br>                        |
-| 3        | [[Designing & Securing Enterprise Networks]] | [[Digital Solutions]]    | [[Application Of Robotics]]           | [[Website Development Semester 3\|Semester 3]]                            |
-| 4        | [[Cloud and Distributed Systems]]            | [[Structured Project]]          | [[Robotics Project]]                  | [[Website Development Semester 4\|Semester 4]]                            |
-|          |                                              |                          |                                       | [[Certificate II in Applied Digital Technology - Self Paced Assessments]] |
+| Semester | Networking and Security                      | Digital Technologies     | Robotics & Mechatronics                   | [[Certificate III in Information Technology E Course 2027-28]]            | [[Certificate III in Information Technology E Course 2026-27]]            |
+| -------- | -------------------------------------------- | ------------------------ | ----------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1        | [[Networking and Cyber Systems]]             | [[Digital Assets]]       | ~~[[Building and Programming Circuits]]~~ | Semester 1                                                                | [[Website Development Semester 1\|Semester 1]]                            |
+| 2        | [[Network Administration and Security]]      | [[Digital Applications]] | ~~[[Robotic & Mechatronic Systems]]~~     | Semester 2                                                                | [[Website Development Semester 2\|Semester 2]]<br>                        |
+| 3        | [[Designing & Securing Enterprise Networks]] | [[Digital Solutions]]    | [[Application Of Robotics]]               | Semester 3                                                                | [[Website Development Semester 3\|Semester 3]]                            |
+| 4        | [[Cloud and Distributed Systems]]            | [[Structured Project]]   | [[Robotics Project]]                      | Semester 4                                                                | [[Website Development Semester 4\|Semester 4]]                            |
+|          |                                              |                          |                                           | [[Certificate II in Applied Digital Technology - Self Paced Assessments]] | [[Certificate II in Applied Digital Technology - Self Paced Assessments]] |
 
 ![[commonBlocks#Contact Details]]
 
