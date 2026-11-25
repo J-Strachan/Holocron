@@ -1,3 +1,7 @@
+---
+isCurrent: true
+needsUpdating: true
+---
 # The Linux Boot Process: A Complete Guide
 
 ### Overview: From Power Button to Desktop
